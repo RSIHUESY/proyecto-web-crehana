@@ -12498,7 +12498,7 @@ a:hover, .btn-link:hover {
   text-decoration: none;
 }
 
-.btn.btn-primary {
+.btn, .btn-primary {
   font-weight: 500;
   color: #fff;
 }
